@@ -1,4 +1,4 @@
-# frist
+# First
 
 A new Flutter project.
 
